@@ -40,7 +40,7 @@ describe('TodoApp', () => {
   });
 
   // Test that when toggle from true to false, completedAt get removed
-  it('should toggle todo from completed to incompoleted', () => {
+  it('should toggle todo from completed to incompleted', () => {
     var todoData = {
       id: 11,
       text: 'Test features',
